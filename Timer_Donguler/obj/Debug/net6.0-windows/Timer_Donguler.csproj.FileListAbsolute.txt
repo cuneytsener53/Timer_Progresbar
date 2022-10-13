@@ -1,0 +1,17 @@
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\bin\Debug\net6.0-windows\Timer_Donguler.exe
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\bin\Debug\net6.0-windows\Timer_Donguler.deps.json
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\bin\Debug\net6.0-windows\Timer_Donguler.runtimeconfig.json
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\bin\Debug\net6.0-windows\Timer_Donguler.dll
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\bin\Debug\net6.0-windows\Timer_Donguler.pdb
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\Timer_Donguler.csproj.AssemblyReference.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\Timer_Donguler.Form1.resources
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\Timer_Donguler.csproj.GenerateResource.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\Timer_Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\Timer_Donguler.AssemblyInfoInputs.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\Timer_Donguler.AssemblyInfo.cs
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\Timer_Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\Timer_Donguler.dll
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\refint\Timer_Donguler.dll
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\Timer_Donguler.pdb
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\Timer_Donguler.genruntimeconfig.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\Timer_Donguler\Timer_Donguler\obj\Debug\net6.0-windows\ref\Timer_Donguler.dll
